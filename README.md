@@ -1,4 +1,4 @@
-# api-practice
+# API-practice
 
 2023-Winter-techeer-Bootcamp-Team-E
 <br/>
