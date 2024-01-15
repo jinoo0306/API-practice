@@ -13,7 +13,6 @@ function App() {
       setImageFile(e.target.files[0]);
     }
   };
-
   const getTodos = async () => {
     const response = await axios.get("/api/todos");
     setTodos(response.data.todos);
